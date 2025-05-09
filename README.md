@@ -1,4 +1,4 @@
-##Traffic simulation project with cellular automata
+Traffic simulation project with cellular automata
 
 Expanded the NS model for celluar automata traffic simulation with:
 - Intersections with a giveway sign
