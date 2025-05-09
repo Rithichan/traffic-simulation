@@ -1,3 +1,5 @@
-## Small part of traffic simulation project
+##Traffic simulation project with cellular automata
 
-Simulates one lane traffic with traffic lights and turning
+Expanded the NS model for celluar automata traffic simulation with:
+- Intersections with a giveway sign
+- Intersections with a traffic light
